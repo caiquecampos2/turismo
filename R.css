@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(176, 233, 199);
+   }
+   
+   #h1{
+       color: rgb(15, 118, 84);
+       
+   }
+   #div1{
+       background-color: rgb(185, 249, 249);
+       width: 1500px;
+       
+   }
+   button {
+       width: 13%;
+       padding: 4px;
+       background-color: #00ff9d;
+       border: none;
+       border-radius: 100px;
+       cursor: pointer;
+       transition: background-color 0.5s;
+   }
+   #p1{
+       color: #045838;
+   }
+   #h2{
+    color: rgb(8, 57, 41);
+   }
+   #div2{
+    background-color: rgb(185, 249, 249);
+    width: 600px;
+    height: 330px;
+    border-radius: 23px;
+    border-color: black;
+   }
+   #div3{
+    background-color: rgb(185, 249, 249);
+    width: 620px;
+    height: 330px;
+    border-radius: 23px;
+    border-color: black;
+   }
+   #div4{
+    background-color: rgb(185, 249, 249);
+    width: 620px;
+    height: 330px;
+    border-radius: 23px;
+    border-color: black;
+   }
+   #div5{
+    background-color: rgb(185, 249, 249);
+    width: 620px;
+    height: 330px;
+    border-radius: 23px;
+    border-color: black;
+   }
+   #div5{
+    background-color: rgb(185, 249, 249);
+    width: 620px;
+    height: 330px;
+    border-radius: 23px;
+    border-color: black;
+   }
+   #div6{
+    background-color: rgb(185, 249, 249);
+    width: 620px;
+    height: 340px;
+    border-radius: 23px;
+    border-color: black;
+   }
+   p{
+    color: rgb(12, 111, 17);
+   }

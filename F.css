@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(176, 233, 199);
+   }
+   button {
+    width: 13%;
+    padding: 4px;
+    background-color: #00ff9d;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+   }
+   #h1{
+    color: rgb(15, 118, 84);
+    
+}
+#div1{
+    background-color: rgb(185, 249, 249);
+    width: 1500px;
+    
+}
+#div2{
+    background-color: rgb(185, 249, 249);
+    width: 600px;
+    height: 330px;
+    border-radius: 23px;
+    border-color: black;
+   }
+   p{
+    color: #045838;
+}

@@ -1,0 +1,23 @@
+body{
+ background-color: rgb(176, 233, 199);
+}
+
+#h1{
+    color: rgb(15, 118, 84);
+    
+}
+#div1{
+    background-color: rgb(185, 249, 249);
+}
+button {
+    width: 13%;
+    padding: 4px;
+    background-color: #00ff9d;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+#p1{
+    color: #045838;
+}
